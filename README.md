@@ -1,4 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edzen France Arabia===========================================================================================================================================Software Engineer-----------------I like to learn new things and I love code.* 🌍  I'm based in Philippines* ✉️  You can contact me at [edzenfrance@gmail.com](mailto:edzenfrance@gmail.com)* 🚀  I'm currently working on [PytextractOCR](http://github.com/edzenfrance/PyTextractOCR)* 🧠  I'm learning Python, Django, Flask, FastAPI, JS* 🤝  I'm open to collaborating on Interesting projects* ⚡  I have a cat named Oreo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edzen France Arabia
+===========================================================================================================================================
+
+Software Engineer
+-----------------
+
+I like to learn new things and I love code.
+
+*   🌍  I'm based in Philippines
+*   ✉️  You can contact me at [edzenfrance@gmail.com](mailto:edzenfrance@gmail.com)
+*   🚀  I'm currently working on [PytextractOCR](http://github.com/edzenfrance/PyTextractOCR)
+*   🧠  I'm learning Python, Django, Flask, FastAPI, JS
+*   🤝  I'm open to collaborating on Interesting projects
+*   ⚡  I have a cat named Oreo
 
 ### Skills
 
